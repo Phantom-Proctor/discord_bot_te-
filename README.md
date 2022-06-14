@@ -1,2 +1,3 @@
-# discord_bot_te-
-A template for a discord i would advice using an online ide such as kivy or replit
+# discord_bot_template
+A template for a discord bot, 
+I would advice using an online IDE such as kivy or replit
